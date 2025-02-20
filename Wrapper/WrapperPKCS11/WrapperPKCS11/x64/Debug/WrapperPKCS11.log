@@ -1,0 +1,19 @@
+﻿  wrapper.c
+C:\Users\Vlad\source\repos\WrapperPKCS11\WrapperPKCS11\wrapper.c(195,53): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Vlad\source\repos\WrapperPKCS11\WrapperPKCS11\wrapper.c(206,26): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Vlad\source\repos\WrapperPKCS11\WrapperPKCS11\wrapper.c(207,26): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Vlad\source\repos\WrapperPKCS11\WrapperPKCS11\wrapper.c(228,7): warning C4273: 'C_SignInit': inconsistent dll linkage
+      C:\Users\Vlad\source\repos\WrapperPKCS11\WrapperPKCS11\pkcs11.h(1222,1):
+      see previous definition of 'C_SignInit'
+  
+C:\Users\Vlad\source\repos\WrapperPKCS11\WrapperPKCS11\wrapper.c(238,7): warning C4273: 'C_Sign': inconsistent dll linkage
+      C:\Users\Vlad\source\repos\WrapperPKCS11\WrapperPKCS11\pkcs11.h(1226,1):
+      see previous definition of 'C_Sign'
+  
+C:\Users\Vlad\source\repos\WrapperPKCS11\WrapperPKCS11\wrapper.c(301,7): warning C4273: 'C_GetFunctionList': inconsistent dll linkage
+      C:\Users\Vlad\source\repos\WrapperPKCS11\WrapperPKCS11\pkcs11.h(1075,1):
+      see previous definition of 'C_GetFunctionList'
+  
+  LINK : C:\Users\Vlad\source\repos\WrapperPKCS11\x64\Debug\WrapperPKCS11.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\Vlad\source\repos\WrapperPKCS11\x64\Debug\WrapperPKCS11.lib and object C:\Users\Vlad\source\repos\WrapperPKCS11\x64\Debug\WrapperPKCS11.exp
+  WrapperPKCS11.vcxproj -> C:\Users\Vlad\source\repos\WrapperPKCS11\x64\Debug\WrapperPKCS11.dll
