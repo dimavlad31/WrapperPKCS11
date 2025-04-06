@@ -1,0 +1,23 @@
+﻿  wrapper.c
+C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\wrapper.c(194,53): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\wrapper.c(205,26): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\wrapper.c(206,26): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\wrapper.c(265,26): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\wrapper.c(266,26): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\wrapper.c(284,7): warning C4273: 'C_SignInit': inconsistent dll linkage
+      C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\pkcs11.h(1222,1):
+      see previous definition of 'C_SignInit'
+  
+C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\wrapper.c(294,7): warning C4273: 'C_Sign': inconsistent dll linkage
+      C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\pkcs11.h(1226,1):
+      see previous definition of 'C_Sign'
+  
+C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\wrapper.c(324,7): warning C4273: 'C_GetAttributeValue': inconsistent dll linkage
+      C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\pkcs11.h(1144,1):
+      see previous definition of 'C_GetAttributeValue'
+  
+C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\wrapper.c(352,7): warning C4273: 'C_GetFunctionList': inconsistent dll linkage
+      C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\WrapperPKCS11\pkcs11.h(1075,1):
+      see previous definition of 'C_GetFunctionList'
+  
+  WrapperPKCS11.vcxproj -> C:\Users\Vlad\Desktop\Licenta\WrapperPKCS11\Wrapper\WrapperPKCS11\x64\Debug\WrapperPKCS11.dll
